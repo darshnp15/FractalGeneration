@@ -6,3 +6,5 @@ With this iteration as a starting point, a complex plane spanning from -2 to 2 i
 many roots (counted by multiplicity) as its degree.  When generating our fractals each root will receive its own color. The complex plane can then be colored to indicate the basins of attraction that converge to each root. For a computational point of view, our code identifies which points
 converge to which roots and obtains fractal images. To easily visualize the self-similar structure, a zoom path into the fractal was implemented. This path was obtained by selecting keyframes at
 different magnifications through which a path is then interpolated. Using parallel processing many images were generated and condensed into a video. This project illustrates how practical techniques used for scientific visualization can also have an artistic side.
+
+Link to final zoom fractal video: https://drive.google.com/file/d/1dlUSAdX7DTOVM-H5X-lgyYQuajqiu1Ia/view?usp=sharing
